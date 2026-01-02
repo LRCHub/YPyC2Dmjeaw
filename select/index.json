@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "23",
+  "base_artist": "Diamond Eyes",
+  "createdAt": "2026-01-02T09:55:12.088240Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "23",
+      "artist": "Sam Hunt",
+      "has_synced": true,
+      "path": "select/01_23_Sam_Hunt.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "23 Dohlen",
+      "artist": "Deichkind",
+      "has_synced": true,
+      "path": "select/02_23_Dohlen_Deichkind.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Beach Baby - Live from The Bomb Factory, Dallas TX, Jan 23 2018",
+      "artist": "Bon Iver",
+      "has_synced": true,
+      "path": "select/03_Beach_Baby_-_Live_from_The_Bomb_Factory,_Dallas_TX,_Jan_23_2018_Bon_Iver.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Beach Baby (Live from The Bomb Factory, Dallas TX, Jan 23 2018)",
+      "artist": "Bon Iver",
+      "has_synced": true,
+      "path": "select/04_Beach_Baby_(Live_from_The_Bomb_Factory,_Dallas_TX,_Jan_23_2018)_Bon_Iver.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "1 Samuel 15:23",
+      "artist": "The Mountain Goats",
+      "has_synced": true,
+      "path": "select/05_1_Samuel_15_23_The_Mountain_Goats.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Genesis 3:23",
+      "artist": "The Mountain Goats",
+      "has_synced": true,
+      "path": "select/06_Genesis_3_23_The_Mountain_Goats.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Isaiah 45:23",
+      "artist": "The Mountain Goats",
+      "has_synced": true,
+      "path": "select/07_Isaiah_45_23_The_Mountain_Goats.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Section 23 [Get Up and Go]",
+      "artist": "The Polyphonic Spree",
+      "has_synced": false,
+      "path": "select/08_Section_23_[Get_Up_and_Go]_The_Polyphonic_Spree.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Strawberry Letter 23",
+      "artist": "Tevin Campbell",
+      "has_synced": false,
+      "path": "select/09_Strawberry_Letter_23_Tevin_Campbell.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "23 Hr. Lock Down",
+      "artist": "Ying Yang Twins feat. Bun B",
+      "has_synced": false,
+      "path": "select/10_23_Hr._Lock_Down_Ying_Yang_Twins_feat._Bun_B.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "22 Going On 23",
+      "artist": "Butthole Surfers",
+      "has_synced": true,
+      "path": "select/11_22_Going_On_23_Butthole_Surfers.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "23",
+      "artist": "Blonde Redhead",
+      "has_synced": false,
+      "path": "select/12_23_Blonde_Redhead.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "23: 42",
+      "artist": "ONUKA",
+      "has_synced": true,
+      "path": "select/13_23__42_ONUKA.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Psalm 23",
+      "artist": "Cold Cave",
+      "has_synced": false,
+      "path": "select/14_Psalm_23_Cold_Cave.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "WNYU 89.1 X-Mas Freestyle 12/23/99",
+      "artist": "Necro",
+      "has_synced": false,
+      "path": "select/15_WNYU_89.1_X-Mas_Freestyle_12_23_99_Necro.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "WNYU 89.1 X-Mas Freestyle 12\u000023\u000099",
+      "artist": "Necro",
+      "has_synced": false,
+      "path": "select/16_WNYU_89.1_X-Mas_Freestyle_12\u000023\u000099_Necro.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "23",
+      "artist": "Diamond Eyes",
+      "has_synced": false,
+      "path": "select/pl_01_23_Diamond_Eyes.txt"
+    }
+  ]
+}
